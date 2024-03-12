@@ -1,8 +1,3 @@
-### hi there! im cakeu.
-
-- ⚡ string currentproj = "TELOS";
-- 📫 string discord = "imcakeu";
-- 📫 string email = "cakefactorygames@gmail.com";
-<a href="https://github.com/thecakeu/thecakeu" style="padding: 10px;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imcakeu&show_icons=true&theme=radical" />
-</a>
+hi there! im cakeu
+i mainly make games and small web apps
+check more of my stuff out over at https://cakeu.dev/
