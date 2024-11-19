@@ -1,4 +1,4 @@
-<h3 align="left">hi 👋, i'm cakeu</h3>
+<h3 align="left">hi, i'm cakeu 👋</h3>
 <p align="left">a game dev and ui/ux contractor</p>
 <p><a href="https://cakeu.dev/" target="_blank" rel="noreferrer">cakeu.dev</a></p>
 <p> <img src="https://komarev.com/ghpvc/?username=imcakeu&label=Profile%20views&color=0e75b6&style=flat" alt="imcakeu" /> </p>
