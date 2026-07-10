@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=250&color=B1A595&vCenter=true&width=750&lines=hi,+i'm+cakeu.;unity+programming+%26+web+development." alt="Typing text" />
 </a>
 
-**$\color{#B1A595}{\text{Masters Student in Game Programming}}$** at [CNAM Enjmin](https://enjmin-en.cnam.fr/).<br>
+**$\color{#B1A595}{\text{Masters Student in Game Programming}}$** at [Cnam-Enjmin](https://enjmin-en.cnam.fr/).<br>
 **$\color{#B1A595}{\text{Working on}}$** UI Programming for [SCP: Valravn](https://store.steampowered.com/app/2707670/SCP_Valravn/) at [Subtle Bravado Studios](https://subtlebravado.com/), published by [CRITICAL REFLEX](https://www.criticalreflex.com/).
 
 **$\color{#B1A595}{\text{Main stack}}$**: C#, Unity, React, Vue.js, JSX<br>
