@@ -6,7 +6,7 @@
 **$\color{#B1A595}{\text{Working on}}$** UI Programming for [SCP: Valravn](https://store.steampowered.com/app/2707670/SCP_Valravn/) at [Subtle Bravado Studios](https://subtlebravado.com/), published by [CRITICAL REFLEX](https://www.criticalreflex.com/).
 
 **$\color{#B1A595}{\text{Main stack}}$**: C#, Unity, React, Vue.js, JSX<br>
-**$\color{#B1A595}{\text{Looking for}}$**: M2 internship in <i>Gameplay, Network or UI</i> Programming (6 months, remote or on-site in Europe)
+**$\color{#B1A595}{\text{Looking for}}$**: Summer 2027 (M1) internship in <i>Gameplay, Network or UI</i> Programming (2-3 months, remote or on-site in Europe)
 
 **$\color{#B1A595}{\text{Portfolio}}$**: [cakeu.dev](https://cakeu.dev) <br>
 **$\color{#B1A595}{\text{Get in touch}}$**: [edward@cakeu.dev](mailto:edward@cakeu.dev) <br>
